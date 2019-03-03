@@ -1,6 +1,6 @@
 using System;
 
-namespace BeautySalon1.Models
+namespace BeautySalon.Models
 {
 	public class ErrorViewModel
 	{
