@@ -15,4 +15,8 @@
     <ProjectReference Include="..\BeutySalon.Data\BeutySalon.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Identity\Services\" />
+  </ItemGroup>
+
 </Project>
